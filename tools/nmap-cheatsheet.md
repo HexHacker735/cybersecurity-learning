@@ -4,3 +4,4 @@
 ```bash
 nmap -sS -sV -oN scan.txt <IP>
 nmap -T4 <IP>
+nmap -p- <IP>
